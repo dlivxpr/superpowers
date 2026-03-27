@@ -84,10 +84,13 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 
 ### GitHub Copilot CLI
 
+Install directly from GitHub:
+
 ```bash
-copilot plugin marketplace add obra/superpowers-marketplace
-copilot plugin install superpowers@superpowers-marketplace
+/plugin install https://github.com/dlivxpr/superpowers
 ```
+
+**Detailed docs:** [docs/README.copilot-cli.md](docs/README.copilot-cli.md)
 
 ### Gemini CLI
 

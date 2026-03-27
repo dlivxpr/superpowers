@@ -1,6 +1,6 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
+  "name": "superpowers",
+  "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
   "owner": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "superpowers",
-      "description": "Core skills library, collaboration patterns, and proven techniques",
+      "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
       "version": "5.0.6",
       "source": "./",
       "author": {

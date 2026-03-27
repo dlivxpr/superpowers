@@ -1,13 +1,14 @@
 {
   "name": "superpowers",
+  "displayName": "Superpowers",
   "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
   "version": "5.0.6",
   "author": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/dlivxpr/superpowers",
+  "repository": "https://github.com/dlivxpr/superpowers",
   "license": "MIT",
   "keywords": [
     "skills",
@@ -17,10 +18,6 @@
     "best-practices",
     "workflows"
   ],
-  "skills": "./skills/",
-  "agents": "./agents/",
-  "commands": "./commands/",
-  "hooks": "./hooks/hooks.json",
   "skills": "./skills/",
   "agents": "./agents/",
   "commands": "./commands/",
